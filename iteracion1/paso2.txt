@@ -1,0 +1,1 @@
+paso2 realizadoEl componente a descomponer es el sistema entero
