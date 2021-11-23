@@ -1,1 +1,2 @@
-paso2 realizadoEl componente a descomponer es el sistema entero
+paso2 realizado - test​ 
+ - asd​ 
