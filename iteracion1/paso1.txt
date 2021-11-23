@@ -1,2 +1,3 @@
 Los requerimientos funcionales son:
-asd​ 
+req2​ 
+Req1​ 
